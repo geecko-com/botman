@@ -21,7 +21,7 @@
         "opis/closure": "^2.3 || ^3.0",
         "mpociot/pipeline": "^1.0.2",
         "react/socket": "~1.0",
-        "spatie/macroable": "^1.0",
+        "spatie/macroable": "^2.0",
         "psr/container": "^1.0"
     },
     "require-dev": {
